@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi, I'm Emilia 👋
 
-<!--
+I am the third year student of Computer Science, who is passionate to gain new knowledge and develope myself to become front-end developer. In future I would like to progress towards becoming a full-stack developer.
+
+ <!--
 **enyolka/enyolka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
